@@ -1,8 +1,6 @@
 language: java
-sudo: false # faster builds
 
 jdk:
-  - openjdk11
   - openjdk8 
 
 CODECOV_TOKEN='791fb6f3-2d0c-48aa-abb6-91f6aee8830b'
